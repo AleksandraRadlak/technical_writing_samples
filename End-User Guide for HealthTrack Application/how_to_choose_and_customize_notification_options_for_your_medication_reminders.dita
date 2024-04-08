@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_choose_and_customize_notification_options_for_your_medication_reminders">
+    <title>How to Choose and Customize Notification Features</title>
+    <shortdesc>Here you will learn how to choose from a variety of Notification
+        Features.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_njy_whk_z1c">
+            <p>Determine your preferred notification type: visual or auditory.</p>
+        </prereq>
+        <context/>
+        <steps>
+            <step>
+                <cmd>In "Settings", navigate to "Notification Preferences".</cmd>
+            </step>
+            <step>
+                <cmd>Choose between visual (banner, badge) and auditory (alarm, tone) alerts.</cmd>
+            </step>
+            <step>
+                <cmd>Toggle the vibration option to "On" if you wish to add a vibration alert along
+                    with your chosen auditory or visual notification.</cmd>
+            </step>
+            <step>
+                <cmd>Adjust the volume and visual appearance settings as preferred and save.</cmd>
+            </step>
+        </steps>
+        <result id="result_syj_bjk_z1c">Customized notifications will alert you about medication
+            times in your chosen method, reducing the chance of missed doses.</result>
+        <example id="example_t1v_jjk_z1c">Mike prefers visual notifications because he often keeps
+            his phone on silent mode. He selects the banner notification option with a distinctive
+            icon for his diabetes medication reminder. Now, whenever it's time to take his
+            medication, a clear banner pops up on his phone's screen, ensuring he sees the reminder
+            even if his phone is on silent.</example>
+    </taskbody>
+</task>

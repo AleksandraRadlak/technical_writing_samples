@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/technical%20writing%20portfolio/end_user_guide_for_healthtrack_application.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">End-User Guide for HealthTrack Application</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">End-User Guide for HealthTrack Application</title>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Medication Reminders Customization"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d105e14">Medication Reminders Customization</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_are_medication_reminders"><resourceid appid="what_are_medication_reminders" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">What Are Medication Reminders?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn what Medication Reminders are in HealthTrack.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_personalize_your_medication_reminders"><resourceid appid="how_to_personalize_your_medication_reminders" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">How to Personalize Your Medication Reminders</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to personalize your Medication Reminders schedules for timely         medication intake.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Notification Features"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d105e38">Notification Features</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_a_notification"><resourceid appid="what_is_a_notification" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">What Is a Notification?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn what a Notification is in HealthTrack.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_choose_and_customize_notification_options_for_your_medication_reminders"><resourceid appid="how_to_choose_and_customize_notification_options_for_your_medication_reminders" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">How to Choose and Customize Notification Features</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to choose from a variety of Notification         Features.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Medication Tracking"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d105e62">Medication Tracking</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_medication_tracking"><resourceid appid="what_is_medication_tracking" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">What Is Medication Tracking?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn what Medication Tracking is.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_record_your_medication_usage_and_check_adherence"><resourceid appid="how_to_record_your_medication_usage_and_check_adherence" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">How to Record Your Medication Usage and Check Adherence</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to log your medication intake, monitor adherence and generate         reports for healthcare consultations.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Health Insights"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d105e86">Health Insights</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_are_health_insights"><resourceid appid="what_are_health_insights" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">What Are Health Insights?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn what Health Insights are in HealthTrack.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_access_and_utilize_personalized_health_insights"><resourceid appid="how_to_access_and_utilize_personalized_health_insights" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">How to Access and Utilize Personalized Health Insights</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to receive personalized Health Insights based on your         medication adherence to improve your health routines.</shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d105e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Medication Reminders Customization</ph></title><concept class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="what_are_medication_reminders" oid="what_are_medication_reminders" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What Are Medication Reminders?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn what Medication Reminders are in HealthTrack.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">In HealthTrack, Medication Reminders are a specialized feature designed to support users
+            in adhering to their prescribed medication regimens. </p>
+        <p class="- topic/p ">By allowing users to input specific details about their medications—including names,
+            dosages and intake schedules—HealthTrack generates personalized alerts that notify users
+            when it's time to take each medication. </p>
+        <p class="- topic/p ">This customization extends to the type of notification received, whether it be visual,
+            auditory, or via vibration, accommodating the user's preferences and lifestyle needs. </p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="how_to_personalize_your_medication_reminders" oid="how_to_personalize_your_medication_reminders" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Personalize Your Medication Reminders</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to personalize your Medication Reminders schedules for timely
+        medication intake.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_2_Connect_42_prereq_zlb_bmh_z1c" nd:nd-id="prereq_zlb_bmh_z1c">
+            <p class="- topic/p ">Have your medication names and schedules at hand.</p>
+        </prereq>
+        <context class="- topic/section task/context "/>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Go to the "Medication" section and select "Add Medication".</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter medication details and then tap "Set Reminder".</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose specific times for each reminder. To adjust for different days, select
+                    "Repeat" option, where you can specify the frequency (daily, weekly, or custom
+                    days) and adjust the timing for each reminder as needed.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Save the reminder. Repeat for multiple medications as needed.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_2_Connect_42_result_wqh_dnh_z1c" nd:nd-id="result_wqh_dnh_z1c">You will receive tailored reminders for each medication,
+            ensuring you take them at the correct times every day.</result>
+        <example class="- topic/example " id="unique_2_Connect_42_example_ldp_hnh_z1c" nd:nd-id="example_ldp_hnh_z1c">Sarah needs to take her heart medication at 8 AM and her
+            allergy pills at 8 PM. She enters both medications into HealthTrack, sets the reminders
+            for these specific times, and chooses a repeat schedule for every day. Now, Sarah
+            receives timely reminders every morning and evening to take her medications.</example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d105e38" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Notification Features</ph></title><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="what_is_a_notification" oid="what_is_a_notification" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What Is a Notification?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn what a Notification is in HealthTrack.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">In HealthTrack, the term Notification encompasses a wide range of alerts designed to
+            inform and engage users about various aspects of their health management journey. </p>
+        <p class="- topic/p ">These include, but are not limited to: medication intake reminders, updates on new app
+            features, health tips and progress updates. </p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="how_to_choose_and_customize_notification_options_for_your_medication_reminders" oid="how_to_choose_and_customize_notification_options_for_your_medication_reminders" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Choose and Customize Notification Features</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to choose from a variety of Notification
+        Features.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_njy_whk_z1c" nd:nd-id="prereq_njy_whk_z1c">
+            <p class="- topic/p ">Determine your preferred notification type: visual or auditory.</p>
+        </prereq>
+        <context class="- topic/section task/context "/>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In "Settings", navigate to "Notification Preferences".</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose between visual (banner, badge) and auditory (alarm, tone) alerts.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Toggle the vibration option to "On" if you wish to add a vibration alert along
+                    with your chosen auditory or visual notification.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Adjust the volume and visual appearance settings as preferred and save.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_4_Connect_42_result_syj_bjk_z1c" nd:nd-id="result_syj_bjk_z1c">Customized notifications will alert you about medication
+            times in your chosen method, reducing the chance of missed doses.</result>
+        <example class="- topic/example " id="unique_4_Connect_42_example_t1v_jjk_z1c" nd:nd-id="example_t1v_jjk_z1c">Mike prefers visual notifications because he often keeps
+            his phone on silent mode. He selects the banner notification option with a distinctive
+            icon for his diabetes medication reminder. Now, whenever it's time to take his
+            medication, a clear banner pops up on his phone's screen, ensuring he sees the reminder
+            even if his phone is on silent.</example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d105e62" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Medication Tracking</ph></title><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="what_is_medication_tracking" oid="what_is_medication_tracking" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What Is Medication Tracking?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn what Medication Tracking is.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Medication Tracking in HealthTrack refers to the app's feature that enables users to
+            systematically log and monitor medication intake. This functionality allows users to
+            record each time they take a medication, providing a historical view of their adherence
+            to prescribed treatment plans.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="how_to_record_your_medication_usage_and_check_adherence" oid="how_to_record_your_medication_usage_and_check_adherence" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Record Your Medication Usage and Check Adherence</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to log your medication intake, monitor adherence and generate
+        reports for healthcare consultations.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_6_Connect_42_prereq_zzy_rmk_z1c" nd:nd-id="prereq_zzy_rmk_z1c">Regularly update your medication intake in the app.</prereq>
+        <context class="- topic/section task/context "/>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">After receiving a medication reminder, open the app and go to "Medication
+                    Log".</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap on the medication name and select "Mark as Taken" or "Skip" if not
+                    taken.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Add notes if necessary, especially if a dose was missed or delayed.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Review your adherence over time in the "Reports" section and share with
+                    healthcare providers through the "Share" option.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_6_Connect_42_result_hqy_jnk_z1c" nd:nd-id="result_hqy_jnk_z1c">Gain insights into your medication adherence patterns,
+            allowing for better health management and informed discussions with healthcare
+            providers.</result>
+        <example class="- topic/example " id="unique_6_Connect_42_example_b2x_mnk_z1c" nd:nd-id="example_b2x_mnk_z1c">Linda uses HealthTrack to manage her complex medication
+            schedule. After each reminder, she logs into the app to mark her medication as taken.
+            Over a month, she reviews her adherence report in the app and notices she frequently
+            misses her afternoon dose. Linda shares this report with her doctor, who helps her
+            adjust the timing of her doses for better adherence.</example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d105e86" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Health Insights</ph></title><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="what_are_health_insights" oid="what_are_health_insights" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What Are Health Insights?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn what Health Insights are in HealthTrack.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">In HealthTrack, Health Insights refer to personalized recommendations and analyses
+            generated by the app based on the health data users input and track over time.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="how_to_access_and_utilize_personalized_health_insights" oid="how_to_access_and_utilize_personalized_health_insights" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Access and Utilize Personalized Health Insights</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to receive personalized Health Insights based on your
+        medication adherence to improve your health routines.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_8_Connect_42_prereq_frs_ynk_z1c" nd:nd-id="prereq_frs_ynk_z1c">Consistent logging of medication intake and health
+            activities.</prereq>
+        <context class="- topic/section task/context "/>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the "Health Insights" section, available from the main menu.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">HealthTrack will analyze your medication adherence patterns and provide
+                    personalized insights and recommendations.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Use these insights to adjust your health routines and medication schedules as
+                    recommended for optimal health outcomes.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_8_Connect_42_result_t2q_54k_z1c" nd:nd-id="result_t2q_54k_z1c">Personalized recommendations and insights help you adjust
+            your health routines for better outcomes, encouraging a healthier lifestyle.</result>
+        <example class="- topic/example " id="unique_8_Connect_42_example_csg_w4k_z1c" nd:nd-id="example_csg_w4k_z1c">After consistently logging his blood pressure medication
+            intake and daily blood pressure readings in HealthTrack for several weeks, John receives
+            a personalized insight. The app notices his blood pressure improves significantly on
+            days he takes his medication before breakfast. HealthTrack suggests John adjust his
+            medication timing to consistently take it before his morning meal for better control of
+            his blood pressure.</example>
+    </taskbody>
+</task></topic></map>

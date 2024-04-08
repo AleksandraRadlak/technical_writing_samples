@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_access_and_utilize_personalized_health_insights">
+    <title>How to Access and Utilize Personalized Health Insights</title>
+    <shortdesc>Here you will learn how to receive personalized Health Insights based on your
+        medication adherence to improve your health routines.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_frs_ynk_z1c">Consistent logging of medication intake and health
+            activities.</prereq>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Enter the "Health Insights" section, available from the main menu.</cmd>
+            </step>
+            <step>
+                <cmd>HealthTrack will analyze your medication adherence patterns and provide
+                    personalized insights and recommendations.</cmd>
+            </step>
+            <step>
+                <cmd>Use these insights to adjust your health routines and medication schedules as
+                    recommended for optimal health outcomes.</cmd>
+            </step>
+        </steps>
+        <result id="result_t2q_54k_z1c">Personalized recommendations and insights help you adjust
+            your health routines for better outcomes, encouraging a healthier lifestyle.</result>
+        <example id="example_csg_w4k_z1c">After consistently logging his blood pressure medication
+            intake and daily blood pressure readings in HealthTrack for several weeks, John receives
+            a personalized insight. The app notices his blood pressure improves significantly on
+            days he takes his medication before breakfast. HealthTrack suggests John adjust his
+            medication timing to consistently take it before his morning meal for better control of
+            his blood pressure.</example>
+    </taskbody>
+</task>

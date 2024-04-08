@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_a_notification">
+    <title>What Is a Notification?</title>
+    <shortdesc>Here you will learn what a Notification is in HealthTrack.</shortdesc>
+    <conbody>
+        <p>In HealthTrack, the term Notification encompasses a wide range of alerts designed to
+            inform and engage users about various aspects of their health management journey. </p>
+        <p>These include, but are not limited to: medication intake reminders, updates on new app
+            features, health tips and progress updates. </p>
+    </conbody>
+</concept>

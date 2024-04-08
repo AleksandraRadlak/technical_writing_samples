@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_record_your_medication_usage_and_check_adherence">
+    <title>How to Record Your Medication Usage and Check Adherence</title>
+    <shortdesc>Here you will learn how to log your medication intake, monitor adherence and generate
+        reports for healthcare consultations.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_zzy_rmk_z1c">Regularly update your medication intake in the app.</prereq>
+        <context/>
+        <steps>
+            <step>
+                <cmd>After receiving a medication reminder, open the app and go to "Medication
+                    Log".</cmd>
+            </step>
+            <step>
+                <cmd>Tap on the medication name and select "Mark as Taken" or "Skip" if not
+                    taken.</cmd>
+            </step>
+            <step>
+                <cmd>Add notes if necessary, especially if a dose was missed or delayed.</cmd>
+            </step>
+            <step>
+                <cmd>Review your adherence over time in the "Reports" section and share with
+                    healthcare providers through the "Share" option.</cmd>
+            </step>
+        </steps>
+        <result id="result_hqy_jnk_z1c">Gain insights into your medication adherence patterns,
+            allowing for better health management and informed discussions with healthcare
+            providers.</result>
+        <example id="example_b2x_mnk_z1c">Linda uses HealthTrack to manage her complex medication
+            schedule. After each reminder, she logs into the app to mark her medication as taken.
+            Over a month, she reviews her adherence report in the app and notices she frequently
+            misses her afternoon dose. Linda shares this report with her doctor, who helps her
+            adjust the timing of her doses for better adherence.</example>
+    </taskbody>
+</task>
