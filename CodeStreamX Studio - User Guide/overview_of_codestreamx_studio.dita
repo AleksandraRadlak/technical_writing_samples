@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="overview_of_codestreamx_studio">
+    <title>Overview of CodeStreamX Studio</title>
+    <shortdesc>Here you will learn what CodeStreamX Studio is, focusing on its role and
+        functionalities tailored to collaborative software development projects.</shortdesc>
+    <conbody>
+        <p>CodeStreamX Studio is an Integrated Development Environment (IDE) designed to streamline
+            the software development process. It offers a comprehensive suite of tools for code
+            writing, editing, debugging, and version control, making it an ideal platform for
+            individual developers and teams alike. </p>
+        <table frame="all" rowsep="1" colsep="1" id="table_znf_w3j_1bc">
+            <title>CodeStreamX Studio - Basic Features</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1.6*"/>
+                <thead>
+                    <row>
+                        <entry>Feature</entry>
+                        <entry>Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Version Control Integration</entry>
+                        <entry>Supports direct integration with version control systems (VCS) like
+                            Git, allowing users to manage project versions and collaborate with team
+                            members seamlessly within the IDE.</entry>
+                    </row>
+                    <row>
+                        <entry>Project Management</entry>
+                        <entry>Facilitates the creation, organization, and management of software
+                            development projects. Users can set up new projects, define project
+                            details, and customize the development environment to suit their
+                            needs.</entry>
+                    </row>
+                    <row>
+                        <entry>Collaborative Tools</entry>
+                        <entry>Includes features for team collaboration, such as the ability to
+                            invite team members to projects, assign roles and access levels, and
+                            share project documentation and guidelines.</entry>
+                    </row>
+                    <row>
+                        <entry>Customizable Workspace</entry>
+                        <entry>Offers a flexible workspace that can be tailored to individual
+                            preferences and project requirements, enhancing productivity and
+                            efficiency.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

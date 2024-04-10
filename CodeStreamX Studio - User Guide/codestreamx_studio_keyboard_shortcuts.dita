@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="codestreamx_studio_keyboard_shortcuts">
+    <title>CodeStreamX Studio Keyboard Shortcuts</title>
+    <shortdesc>Here you will find a list of keyboard shortcuts in CodeStreamX Studio.</shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_ggb_rvj_1bc">
+            <title>File Operations</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Operation</entry>
+                        <entry>Shortcut</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>New Project</entry>
+                        <entry>Ctrl + N</entry>
+                    </row>
+                    <row>
+                        <entry>Open Project</entry>
+                        <entry>Ctrl + O</entry>
+                    </row>
+                    <row>
+                        <entry>Save</entry>
+                        <entry>Ctrl + S</entry>
+                    </row>
+                    <row>
+                        <entry>Close Project</entry>
+                        <entry>Ctrl + W</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_vby_yvj_1bc">
+            <title>Editing Commands</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Operation</entry>
+                        <entry>Shortcut</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Cut</entry>
+                        <entry>Ctrl + X</entry>
+                    </row>
+                    <row>
+                        <entry>Copy</entry>
+                        <entry>Ctrl + C</entry>
+                    </row>
+                    <row>
+                        <entry>Paste</entry>
+                        <entry>Ctrl + V</entry>
+                    </row>
+                    <row>
+                        <entry>Undo</entry>
+                        <entry>Ctrl + Z</entry>
+                    </row>
+                    <row>
+                        <entry>Redo</entry>
+                        <entry>Ctrl + Y</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_lkf_3wj_1bc">
+            <title>Navigation and Search</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Operation</entry>
+                        <entry>Shortcut</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Find</entry>
+                        <entry>Ctrl + F</entry>
+                    </row>
+                    <row>
+                        <entry>Replace</entry>
+                        <entry>Ctrl + H</entry>
+                    </row>
+                    <row>
+                        <entry>Go to line</entry>
+                        <entry>Ctrl + G</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_wxc_nwj_1bc">
+            <title>Debugging and Testing</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Run</entry>
+                        <entry>F5</entry>
+                    </row>
+                    <row>
+                        <entry>Debug</entry>
+                        <entry>F9</entry>
+                    </row>
+                    <row>
+                        <entry>Step over</entry>
+                        <entry>F10</entry>
+                    </row>
+                    <row>
+                        <entry>Step into</entry>
+                        <entry>F11</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/codestreamx_studio_user_guide.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">CodeStreamX Studio - User Guide</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">CodeStreamX Studio - User Guide</title>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Set Up a Collaborative Project"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d105e14">Set Up a Collaborative Project</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="overview_of_codestreamx_studio"><resourceid appid="overview_of_codestreamx_studio" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Overview of CodeStreamX Studio</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn what CodeStreamX Studio is, focusing on its role and         functionalities tailored to collaborative software development projects.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_set_up_a_collaborative_project_in_codestreamx_studio"><resourceid appid="how_to_set_up_a_collaborative_project_in_codestreamx_studio" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">How to Set Up a Collaborative Project in CodeStreamX Studio</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn how to set  up a new collaborative project in CodeStreamX Studio,         including initializing a repository and inviting team members.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Customize Your Workspace"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d105e38">Customize Your Workspace</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_workplace_customization_in_codestreamx_studio"><resourceid appid="what_is_workplace_customization_in_codestreamx_studio" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">What is Workplace Customization in CodeStreamX Studio?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will find out what workplace customization is and what it includes in         CodeStreamX Studio.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_customize_your_workspace_in_codestreamx_studio"><resourceid appid="how_to_customize_your_workspace_in_codestreamx_studio" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">How to Customize Your Workspace in CodeStreamX Studio</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn the procedure for configuring your workspace in CodeStreamX         Studio, aimed at optimizing productivity and aligning the environment with individual         development preferences.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="codestreamx_studio_keyboard_shortcuts"><resourceid appid="codestreamx_studio_keyboard_shortcuts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">CodeStreamX Studio Keyboard Shortcuts</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will find a list of keyboard shortcuts in CodeStreamX Studio.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Manage Project Versions"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d105e73">Manage Project Versions</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_are_project_versions_in_codestreamx_studio"><resourceid appid="what_are_project_versions_in_codestreamx_studio" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">What are Project Versions in CodeStreamX Studio?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn what project versions are in CodeStreamX Studio.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_manage_project_versions_with_codestreamx_studio"><resourceid appid="how_to_manage_project_versions_with_codestreamx_studio" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">How to Manage Project Versions with CodeStreamX Studio</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to manage project versions in CodeStreamX Studio using its integrated         version control, including setup, committing changes, and tracking history. This guide         simplifies collaboration and version tracking within the IDE, enhancing project organization         and development efficiency.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="version_control_commands_in_codestreamx_studio"><resourceid appid="version_control_commands_in_codestreamx_studio" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Version Control Commands in CodeStreamX Studio</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will find version control commands in CodeStreamX Studio.</shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d105e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Set Up a Collaborative Project</ph></title><concept class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="overview_of_codestreamx_studio" oid="overview_of_codestreamx_studio" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Overview of CodeStreamX Studio</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn what CodeStreamX Studio is, focusing on its role and
+        functionalities tailored to collaborative software development projects.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">CodeStreamX Studio is an Integrated Development Environment (IDE) designed to streamline
+            the software development process. It offers a comprehensive suite of tools for code
+            writing, editing, debugging, and version control, making it an ideal platform for
+            individual developers and teams alike. </p>
+        <table class="- topic/table " colsep="1" frame="all" id="unique_1_Connect_42_table_znf_w3j_1bc" nd:nd-id="table_znf_w3j_1bc" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">CodeStreamX Studio - Basic Features</ph></title>
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;15:65" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/overview_of_codestreamx_studio.dita" style="width:38.4615%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.6*" xtrc="colspec:2;16:67" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/overview_of_codestreamx_studio.dita" style="width:61.5385%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Feature</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Description</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Version Control Integration</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Supports direct integration with version control systems (VCS) like
+                            Git, allowing users to manage project versions and collaborate with team
+                            members seamlessly within the IDE.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Project Management</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Facilitates the creation, organization, and management of software
+                            development projects. Users can set up new projects, define project
+                            details, and customize the development environment to suit their
+                            needs.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Collaborative Tools</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Includes features for team collaboration, such as the ability to
+                            invite team members to projects, assign roles and access levels, and
+                            share project documentation and guidelines.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Customizable Workspace</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Offers a flexible workspace that can be tailored to individual
+                            preferences and project requirements, enhancing productivity and
+                            efficiency.</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="how_to_set_up_a_collaborative_project_in_codestreamx_studio" oid="how_to_set_up_a_collaborative_project_in_codestreamx_studio" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Set Up a Collaborative Project in CodeStreamX Studio</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn how to set  up a new collaborative project in CodeStreamX Studio,
+        including initializing a repository and inviting team members.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_2_Connect_42_prereq_aql_15f_1bc" nd:nd-id="prereq_aql_15f_1bc">
+            <p class="- topic/p ">To set up a collaborative project, first ensure CodeStreamX Studio is installed and
+                updated on your computer, and have an active account with a compatible version
+                control system like Git. Familiarize yourself with basic version control operations
+                and prepare a new software development project for collaboration in CodeStreamX
+                Studio. Identify team members for collaboration, ensuring all have necessary access
+                and a stable internet connection for project setup and management.</p>
+        </prereq>
+        <context class="- topic/section task/context " id="unique_2_Connect_42_context_xxq_pdq_1bc" nd:nd-id="context_xxq_pdq_1bc"/>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Launch CodeStreamX Studio and select "New Project" from the "File" menu.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter your project details (name, description, programming language).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Initialize a new version control repository by selecting "VCS Integration" and
+                    choosing your platform (e.g., Git, SVN).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Set up the project workspace by customizing the layout and tools according to
+                    your team's needs.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Invite team members by navigating to the "Team" menu and selecting "Invite
+                    Members". Enter their email addresses, and customize their access levels.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Share project guidelines and coding standards through the "Project
+                    Documentation" section.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_2_Connect_42_result_w5x_nwf_1bc" nd:nd-id="result_w5x_nwf_1bc">
+            <p class="- topic/p ">Following the steps outlined ensures the successful setup of a collaborative project
+                in CodeStreamX Studio, enabling efficient team-based development and version control
+                integration.</p>
+        </result>
+        <example class="- topic/example " id="unique_2_Connect_42_example_glj_21g_1bc" nd:nd-id="example_glj_21g_1bc"><image class="- topic/image " dita-ot:image-width="945" dita-ot:image-height="655" href="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/Task%20Topic%20Example.jpg" id="unique_2_Connect_42_image_dc2_l1g_1bc" nd:nd-id="image_dc2_l1g_1bc" placement="inline"/></example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d105e38" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Customize Your Workspace</ph></title><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="what_is_workplace_customization_in_codestreamx_studio" oid="what_is_workplace_customization_in_codestreamx_studio" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Workplace Customization in CodeStreamX Studio?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will find out what workplace customization is and what it includes in
+        CodeStreamX Studio.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Workspace customization in CodeStreamX Studio is a process which involves tailoring the
+            IDE settings and layout to match user preferences and needs. It covers adjusting panels
+            like the code editor, file explorer, and console output for better access, choosing
+            visual themes to ease eye strain and enhance readability, and setting up keyboard
+            shortcuts for a more efficient workflow.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="how_to_customize_your_workspace_in_codestreamx_studio" oid="how_to_customize_your_workspace_in_codestreamx_studio" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Customize Your Workspace in CodeStreamX Studio</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn the procedure for configuring your workspace in CodeStreamX
+        Studio, aimed at optimizing productivity and aligning the environment with individual
+        development preferences.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_ils_1qj_1bc" nd:nd-id="prereq_ils_1qj_1bc">
+            <p class="- topic/p ">Before customizing your workspace in CodeStreamX Studio, ensure you have the latest
+                version installed and are familiar with its interface. Identify your specific
+                development preferences, such as layout, theme, and keyboard shortcuts, to
+                streamline the customization process.</p>
+        </prereq>
+        <context class="- topic/section task/context " id="unique_4_Connect_42_context_nzq_5dq_1bc" nd:nd-id="context_nzq_5dq_1bc"/>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Launch CodeStreamX Studio and open the "Preferences" menu from the main
+                    toolbar.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Layout Customization: Navigate to "View &gt; Layout" to adjust the layout. You can
+                    drag and drop different panels (e.g., code editor, file explorer, and output
+                    console) to reposition them within the workspace.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Theme Selection: Within the "Preferences" menu, select "Appearance". Here, you
+                    can choose from a variety of themes to change the color scheme of your IDE,
+                    reducing eye strain and improving code readability.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Setting Up Keyboard Shortcuts: To further streamline your workflow, customize
+                    keyboard shortcuts tailored to your development needs. Go to "Preferences &gt;
+                    Keyboard Shortcuts" and refer to the list of default shortcuts. Here, you can
+                    assign new shortcuts or modify existing ones to better suit your coding
+                    habits.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Save Your Customizations: After making your adjustments, click "Apply" to save
+                    your customized settings, then "OK" to exit the Preferences menu.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">To enhance your efficiency, customize keyboard shortcuts according to your
+                        development needs. Go to "Preferences &gt; Keyboard Shortcuts" and review the
+                        list of default shortcuts. Here, you can assign new shortcuts or modify
+                        existing ones to align with your coding habits. For a comprehensive list of
+                        keyboard shortcuts and tips on customization, refer to <xref class="- topic/xref " href="#unique_5" type="reference"><?ditaot gentext?>CodeStreamX Studio Keyboard Shortcuts<?ditaot genshortdesc?><desc class="- topic/desc ">Here you will find a list of keyboard shortcuts in CodeStreamX Studio.</desc></xref></p>
+                </info>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_4_Connect_42_result_mmr_nrj_1bc" nd:nd-id="result_mmr_nrj_1bc">
+            <p class="- topic/p ">Following the above-mentioned steps results in a personalized and optimized
+                CodeStreamX Studio workspace that aligns with individual development preferences,
+                enhancing productivity and coding efficiency.</p>
+        </result>
+        <example class="- topic/example " id="unique_4_Connect_42_example_s5v_msj_1bc" nd:nd-id="example_s5v_msj_1bc"><image class="- topic/image " dita-ot:image-width="1009" dita-ot:image-height="710" href="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/Task%20Topic%20Example%202.jpg" id="unique_4_Connect_42_image_g54_ltj_1bc" nd:nd-id="image_g54_ltj_1bc" placement="inline"/></example>
+    </taskbody>
+</task><reference class="- topic/topic       reference/reference " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="codestreamx_studio_keyboard_shortcuts" oid="codestreamx_studio_keyboard_shortcuts" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">CodeStreamX Studio Keyboard Shortcuts</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will find a list of keyboard shortcuts in CodeStreamX Studio.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_5_Connect_42_table_ggb_rvj_1bc" nd:nd-id="table_ggb_rvj_1bc" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">File Operations</ph></title>
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/codestreamx_studio_keyboard_shortcuts.dita" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/codestreamx_studio_keyboard_shortcuts.dita" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Operation</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Shortcut</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">New Project</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Ctrl + N</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Open Project</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Ctrl + O</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Save</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Ctrl + S</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Close Project</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Ctrl + W</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table class="- topic/table " colsep="1" frame="all" id="unique_5_Connect_42_table_vby_yvj_1bc" nd:nd-id="table_vby_yvj_1bc" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Editing Commands</ph></title>
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:3;41:65" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/codestreamx_studio_keyboard_shortcuts.dita" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:4;42:65" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/codestreamx_studio_keyboard_shortcuts.dita" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Operation</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Shortcut</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Cut</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Ctrl + X</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Copy</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Ctrl + C</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Paste</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Ctrl + V</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Undo</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Ctrl + Z</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">Redo</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">Ctrl + Y</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table class="- topic/table " colsep="1" frame="all" id="unique_5_Connect_42_table_lkf_3wj_1bc" nd:nd-id="table_lkf_3wj_1bc" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Navigation and Search</ph></title>
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:5;76:65" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/codestreamx_studio_keyboard_shortcuts.dita" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:6;77:65" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/codestreamx_studio_keyboard_shortcuts.dita" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Operation</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Shortcut</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Find</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Ctrl + F</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Replace</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Ctrl + H</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Go to line</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Ctrl + G</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table class="- topic/table " colsep="1" frame="all" id="unique_5_Connect_42_table_wxc_nwj_1bc" nd:nd-id="table_wxc_nwj_1bc" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Debugging and Testing</ph></title>
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:7;103:65" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/codestreamx_studio_keyboard_shortcuts.dita" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:8;104:65" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/codestreamx_studio_keyboard_shortcuts.dita" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1"/><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1"/></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Run</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">F5</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Debug</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">F9</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Step over</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">F10</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Step into</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">F11</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d105e73" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Manage Project Versions</ph></title><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="what_are_project_versions_in_codestreamx_studio" oid="what_are_project_versions_in_codestreamx_studio" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What are Project Versions in CodeStreamX Studio?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn what project versions are in CodeStreamX Studio.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Project versions are distinct iterations of a software project, captured and managed
+            within a version control system. They document the project's evolution over time,
+            enabling developers to track progress, manage updates, and facilitate collaboration by
+            preserving the state of the project at various development milestones.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="how_to_manage_project_versions_with_codestreamx_studio" oid="how_to_manage_project_versions_with_codestreamx_studio" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Manage Project Versions with CodeStreamX Studio</ph></title>
+    <shortdesc class="- topic/shortdesc ">Learn how to manage project versions in CodeStreamX Studio using its integrated
+        version control, including setup, committing changes, and tracking history. This guide
+        simplifies collaboration and version tracking within the IDE, enhancing project organization
+        and development efficiency.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_7_Connect_42_prereq_l4q_fcq_1bc" nd:nd-id="prereq_l4q_fcq_1bc">
+            <p class="- topic/p ">Before managing project versions with CodeStreamX Studio, ensure the IDE is installed
+                and you understand its Git integration. Basic knowledge of version control
+                operations is essential. Have a project for version management and ensure a stable
+                internet for remote repository access.</p>
+        </prereq>
+        <context class="- topic/section task/context " id="unique_7_Connect_42_context_kym_wdq_1bc" nd:nd-id="context_kym_wdq_1bc"/>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Initialize Version Control: Launch CodeStreamX Studio, load your project, and
+                    select "Initialize Repository" from the "VCS" menu to start tracking your
+                    project with version control.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Commit Changes: After updating your project, navigate to "VCS &gt; Commit
+                    Changes," enter a summary of the changes in the commit message, and click
+                    "Commit" to save the new state of your project.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Review Commit History: To inspect the record of changes, go to "VCS &gt; Show
+                    History." This displays a log of all commits, showing the modifications, the
+                    contributors, and the timing for each.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Branch for Feature Development: Use the version control system to create new
+                    branches. This method enables isolated development of features or fixes, keeping
+                    the main project stable.</cmd>
+                <info class="- topic/itemgroup task/info ">For detailed version control commands in CodeStreamX Studio, see <xref class="- topic/xref " href="#unique_8" type="reference"><?ditaot gentext?>Version Control Commands in CodeStreamX Studio<?ditaot genshortdesc?><desc class="- topic/desc ">Here you will find version control commands in CodeStreamX Studio.</desc></xref>.</info>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_7_Connect_42_result_ops_wfq_1bc" nd:nd-id="result_ops_wfq_1bc">
+            <p class="- topic/p ">Executing these steps results in streamlined project version control within
+                CodeStreamX Studio, enabling precise change tracking, efficient progress
+                documentation, and isolated feature development through branching, thereby
+                optimizing collaboration and project management.</p>
+        </result>
+        <example class="- topic/example " id="unique_7_Connect_42_example_jn5_jhq_1bc" nd:nd-id="example_jn5_jhq_1bc"><image class="- topic/image " dita-ot:image-width="986" dita-ot:image-height="694" href="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/Task%20Topic%20Example%203.jpg" id="unique_7_Connect_42_image_pnw_khq_1bc" nd:nd-id="image_pnw_khq_1bc" placement="inline"/></example>
+    </taskbody>
+</task><reference class="- topic/topic       reference/reference " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="version_control_commands_in_codestreamx_studio" oid="version_control_commands_in_codestreamx_studio" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Version Control Commands in CodeStreamX Studio</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will find version control commands in CodeStreamX Studio.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_8_Connect_42_table_uwc_nnq_1bc" nd:nd-id="table_uwc_nnq_1bc" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "/></title>
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/version_control_commands_in_codestreamx_studio.dita" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/C:/Users/hp/OneDrive/Pulpit/tech%20writing/CodeStreamX%20Studio%20-%20User%20Guide/version_control_commands_in_codestreamx_studio.dita" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Command</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Description</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Initialize Repository</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Prepares the current project for version tracking by creating a new
+                            repository.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Commit Changes</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Saves the current state of the project as a new version in the
+                            repository's history.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Show History</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Displays a chronological list of all commits made to the project,
+                            including details about each commit.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Create Branch</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Creates a new branch in the repository, allowing for parallel
+                            development streams.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">Merge Branch</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">Combines changes from one branch into another, typically used to
+                            integrate feature development back into the main project.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">Fetch from Remote</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">Updates the local repository with changes made in the remote
+                            repository without merging.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">Pull from Remote</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">Fetches changes from the remote repository and immediately merges
+                            them into the local repository.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">Push to Remote</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">Uploads local repository changes to a remote repository to share with
+                            others.</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></topic></map>

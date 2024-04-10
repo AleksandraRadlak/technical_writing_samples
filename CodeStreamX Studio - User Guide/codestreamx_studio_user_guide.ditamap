@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>CodeStreamX Studio - User Guide</title>
+    <topichead navtitle="Set Up a Collaborative Project">
+        <topicref href="overview_of_codestreamx_studio.dita"/>
+        <topicref href="how_to_set_up_a_collaborative_project_in_codestreamx_studio.dita"/>
+    </topichead>
+    <topichead navtitle="Customize Your Workspace">
+        <topicref href="what_is_workplace_customization_in_codestreamx_studio.dita"/>
+        <topicref href="how_to_customize_your_workspace_in_codestreamx_studio.dita"/>
+        <topicref href="codestreamx_studio_keyboard_shortcuts.dita"/>
+    </topichead>
+    <topichead navtitle="Manage Project Versions">
+        <topicref href="what_are_project_versions_in_codestreamx_studio.dita"/>
+        <topicref href="how_to_manage_project_versions_with_codestreamx_studio.dita"/>
+        <topicref href="version_control_commands_in_codestreamx_studio.dita"/>
+    </topichead>
+</map>

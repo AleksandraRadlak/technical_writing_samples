@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="version_control_commands_in_codestreamx_studio">
+    <title>Version Control Commands in CodeStreamX Studio</title>
+    <shortdesc>Here you will find version control commands in CodeStreamX Studio.</shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_uwc_nnq_1bc">
+            <title/>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Command</entry>
+                        <entry>Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Initialize Repository</entry>
+                        <entry>Prepares the current project for version tracking by creating a new
+                            repository.</entry>
+                    </row>
+                    <row>
+                        <entry>Commit Changes</entry>
+                        <entry>Saves the current state of the project as a new version in the
+                            repository's history.</entry>
+                    </row>
+                    <row>
+                        <entry>Show History</entry>
+                        <entry>Displays a chronological list of all commits made to the project,
+                            including details about each commit.</entry>
+                    </row>
+                    <row>
+                        <entry>Create Branch</entry>
+                        <entry>Creates a new branch in the repository, allowing for parallel
+                            development streams.</entry>
+                    </row>
+                    <row>
+                        <entry>Merge Branch</entry>
+                        <entry>Combines changes from one branch into another, typically used to
+                            integrate feature development back into the main project.</entry>
+                    </row>
+                    <row>
+                        <entry>Fetch from Remote</entry>
+                        <entry>Updates the local repository with changes made in the remote
+                            repository without merging.</entry>
+                    </row>
+                    <row>
+                        <entry>Pull from Remote</entry>
+                        <entry>Fetches changes from the remote repository and immediately merges
+                            them into the local repository.</entry>
+                    </row>
+                    <row>
+                        <entry>Push to Remote</entry>
+                        <entry>Uploads local repository changes to a remote repository to share with
+                            others.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

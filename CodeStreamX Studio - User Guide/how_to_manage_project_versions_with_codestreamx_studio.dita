@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_manage_project_versions_with_codestreamx_studio">
+    <title>How to Manage Project Versions with CodeStreamX Studio</title>
+    <shortdesc>Learn how to manage project versions in CodeStreamX Studio using its integrated
+        version control, including setup, committing changes, and tracking history. This guide
+        simplifies collaboration and version tracking within the IDE, enhancing project organization
+        and development efficiency.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_l4q_fcq_1bc">
+            <p>Before managing project versions with CodeStreamX Studio, ensure the IDE is installed
+                and you understand its Git integration. Basic knowledge of version control
+                operations is essential. Have a project for version management and ensure a stable
+                internet for remote repository access.</p>
+        </prereq>
+        <context id="context_kym_wdq_1bc"/>
+        <steps>
+            <step>
+                <cmd>Initialize Version Control: Launch CodeStreamX Studio, load your project, and
+                    select "Initialize Repository" from the "VCS" menu to start tracking your
+                    project with version control.</cmd>
+            </step>
+            <step>
+                <cmd>Commit Changes: After updating your project, navigate to "VCS > Commit
+                    Changes," enter a summary of the changes in the commit message, and click
+                    "Commit" to save the new state of your project.</cmd>
+            </step>
+            <step>
+                <cmd>Review Commit History: To inspect the record of changes, go to "VCS > Show
+                    History." This displays a log of all commits, showing the modifications, the
+                    contributors, and the timing for each.</cmd>
+            </step>
+            <step>
+                <cmd>Branch for Feature Development: Use the version control system to create new
+                    branches. This method enables isolated development of features or fixes, keeping
+                    the main project stable.</cmd>
+                <info>For detailed version control commands in CodeStreamX Studio, see <xref
+                        href="version_control_commands_in_codestreamx_studio.dita"/>.</info>
+            </step>
+        </steps>
+        <result id="result_ops_wfq_1bc">
+            <p>Executing these steps results in streamlined project version control within
+                CodeStreamX Studio, enabling precise change tracking, efficient progress
+                documentation, and isolated feature development through branching, thereby
+                optimizing collaboration and project management.</p>
+        </result>
+        <example id="example_jn5_jhq_1bc"><image href="Task%20Topic%20Example%203.jpg"
+                id="image_pnw_khq_1bc"/></example>
+    </taskbody>
+</task>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_customize_your_workspace_in_codestreamx_studio">
+    <title>How to Customize Your Workspace in CodeStreamX Studio</title>
+    <shortdesc>Here you will learn the procedure for configuring your workspace in CodeStreamX
+        Studio, aimed at optimizing productivity and aligning the environment with individual
+        development preferences.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ils_1qj_1bc">
+            <p>Before customizing your workspace in CodeStreamX Studio, ensure you have the latest
+                version installed and are familiar with its interface. Identify your specific
+                development preferences, such as layout, theme, and keyboard shortcuts, to
+                streamline the customization process.</p>
+        </prereq>
+        <context id="context_nzq_5dq_1bc"/>
+        <steps>
+            <step>
+                <cmd>Launch CodeStreamX Studio and open the "Preferences" menu from the main
+                    toolbar.</cmd>
+            </step>
+            <step>
+                <cmd>Layout Customization: Navigate to "View > Layout" to adjust the layout. You can
+                    drag and drop different panels (e.g., code editor, file explorer, and output
+                    console) to reposition them within the workspace.</cmd>
+            </step>
+            <step>
+                <cmd>Theme Selection: Within the "Preferences" menu, select "Appearance". Here, you
+                    can choose from a variety of themes to change the color scheme of your IDE,
+                    reducing eye strain and improving code readability.</cmd>
+            </step>
+            <step>
+                <cmd>Setting Up Keyboard Shortcuts: To further streamline your workflow, customize
+                    keyboard shortcuts tailored to your development needs. Go to "Preferences >
+                    Keyboard Shortcuts" and refer to the list of default shortcuts. Here, you can
+                    assign new shortcuts or modify existing ones to better suit your coding
+                    habits.</cmd>
+            </step>
+            <step>
+                <cmd>Save Your Customizations: After making your adjustments, click "Apply" to save
+                    your customized settings, then "OK" to exit the Preferences menu.</cmd>
+                <info>
+                    <p>To enhance your efficiency, customize keyboard shortcuts according to your
+                        development needs. Go to "Preferences > Keyboard Shortcuts" and review the
+                        list of default shortcuts. Here, you can assign new shortcuts or modify
+                        existing ones to align with your coding habits. For a comprehensive list of
+                        keyboard shortcuts and tips on customization, refer to <xref
+                            href="codestreamx_studio_keyboard_shortcuts.dita"/></p>
+                </info>
+            </step>
+        </steps>
+        <result id="result_mmr_nrj_1bc">
+            <p>Following the above-mentioned steps results in a personalized and optimized
+                CodeStreamX Studio workspace that aligns with individual development preferences,
+                enhancing productivity and coding efficiency.</p>
+        </result>
+        <example id="example_s5v_msj_1bc"><image href="Task%20Topic%20Example%202.jpg"
+                id="image_g54_ltj_1bc"/></example>
+    </taskbody>
+</task>
