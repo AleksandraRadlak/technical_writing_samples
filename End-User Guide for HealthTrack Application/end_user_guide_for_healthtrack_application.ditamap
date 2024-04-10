@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>End-User Guide for HealthTrack Application</title>
+    <topichead navtitle="Medication Reminders Customization">
+        <topicref href="what_are_medication_reminders.dita"/>
+        <topicref href="how_to_personalize_your_medication_reminders.dita"/>
+    </topichead>
+    <topichead navtitle="Notification Features">
+        <topicref href="what_are_notification_features.dita"/>
+        <topicref
+            href="how_to_choose_and_customize_notification_options_for_your_medication_reminders.dita"
+        />
+    </topichead>
+    <topichead navtitle="Medication Tracking">
+        <topicref href="what_is_medication_tracking.dita"/>
+        <topicref href="how_to_record_your_medication_usage_and_check_adherence.dita"/>
+    </topichead>
+    <topichead navtitle="Health Insights">
+        <topicref href="what_are_health_insights.dita"/>
+        <topicref href="how_to_access_and_utilize_personalized_health_insights.dita"/>
+    </topichead>
+</map>
